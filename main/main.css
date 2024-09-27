@@ -1,0 +1,124 @@
+.application {
+    color: black;
+    width: 100%;
+}
+.header__container {
+    display: flex;
+    align-items: center;
+    gap: 352px;
+}
+.header__left-menu {
+    display: flex;
+    align-items: center;
+    background-color: #E7E9EB;
+    gap: 9px;
+    border-radius: 50px;
+    width: 114px;
+    padding-left: 19px;
+    height: 56px;
+    font-size: 18px;
+    line-height: 400;
+}
+.menu__image {
+    width: 18px;
+    height: 10px;
+}
+.header__left-search {
+    display: flex;
+    background-color: #E7E9EB;
+    gap: 9px;
+    width: 200px;
+    height: 56px;
+    border-radius: 50px;
+    align-items: center;
+    font-size: 18px;
+    line-height: 400;
+    padding-left: 18px;
+}
+.search__image {
+    width: 17px;
+    height: 17px;
+}
+.heder__left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 105px;
+}
+.header__logo {
+    text-align: center;
+    align-items: center;
+    width: 74px;
+    height: 70px;
+    justify-content: center;
+}
+.header__right {
+    display: flex;
+    gap: 46px;
+    align-items: center;
+}
+.header__right-icons {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.icons__profile {
+    width: 18px;
+    height: 18px;
+}
+.icons__favorite {
+    width: 18px;
+    height: 18px;
+}
+.icons__basket {
+    align-items: center;
+    display: flex;
+    gap: 6px;
+}
+.icons__basket-main {
+    width: 18px;
+    height: 18px;
+}
+.icons__basket-text {
+    background-color: #F67280;
+    width: 28px;
+    height: 28px;
+    border-radius: 60px;
+    text-align: center;
+    color: white;
+    padding-top: 3px;
+}
+.header__right-end {
+    gap: 10px;
+    display: flex;
+    align-items: center;
+
+}
+.end__eng {
+    background-color: #E7E9EB;
+    display: flex;
+    border-radius: 50px;
+    width: 69px;
+    height: 30px;
+    gap: 6px;
+    align-items: center;
+    padding-left: 15px;
+}
+.end__eng-image {
+    width: 10px;
+    height: 6px;
+}
+.end__usd {
+    background-color: #E7E9EB;
+    display: flex;
+    border-radius: 50px;
+    width: 69px;
+    height: 30px;
+    gap: 6px;
+    align-items: center;
+    padding-left: 15px;
+}
+.end__usd-image {
+    width: 10px;
+    height: 6px;
+}
