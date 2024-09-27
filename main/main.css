@@ -122,3 +122,18 @@
     width: 10px;
     height: 6px;
 }
+.hero__yellow {
+    width: 1100px;
+    height: 441px;
+    border-radius: 80px;
+    background-color: #FFE2B5;
+}
+.hero__yellow-main {
+    margin-left: 73px;
+    margin-top: 23px;
+}
+.main__title {
+    font-size: 52px;
+    width: 429px;
+    height: 156px;
+}
